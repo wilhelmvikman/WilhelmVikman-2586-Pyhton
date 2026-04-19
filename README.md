@@ -7,6 +7,4 @@ WilhelmVikman-2586-Python/
 
 └── assignments/ 
 
-└── assignment1/
 
-└── assignment1.ipynb
